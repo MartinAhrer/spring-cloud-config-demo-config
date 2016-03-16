@@ -1,3 +1,0 @@
-# the configuration served to the config clients
-
-message: Hello World from application 'service' staged for 'production'
